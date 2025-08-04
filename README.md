@@ -30,6 +30,18 @@ To start the application, run:
 npm start
 ```
 
+## Development
+```bash
+# Run in development mode
+npm run dev
+
+# Build for production
+npm run build
+
+# Start production server
+npm start
+```
+
 ## Autostart Configuration
 To ensure the application starts automatically after reboot, execute the following command:
 ```bash
